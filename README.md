@@ -39,7 +39,7 @@ and run the demo inference code
 python main.py
 ```
 
-## TODO
+## Checklist
 - [x] Update the Visual branch, Audio branch and Fusion module 
 - [ ] Update the Face branch
 
