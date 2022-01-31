@@ -25,9 +25,11 @@ multi-modal attention.
 ![](https://github.com/MinglangQiao/visual_audio_saliency/blob/main/data/network.png)
 
 ## Requirements
-* pytorch
-* opencv
-* 
+* python 3.7
+* pytorch 1.1.0
+* opencv 
+* librosa
+The dependencies can be installed through [requirements.txt]()
 
 ## Inference
 Download the pretrained model
