@@ -32,8 +32,23 @@ multi-modal attention.
 The dependencies can be installed through [requirements.txt](https://github.com/MinglangQiao/visual_audio_saliency/blob/main/requirements.txt)
 
 ## Inference
-Download the pretrained model
+Download the pretrained model from [here](https://www.dropbox.com/s/j8lu47a5r2upd0a/17_i_video_120_host_207_station_0905_visual_audio_face_modal_cc_0.690_kl_0.8210.pkl?dl=0) and our MVVA database from [here](https://github.com/MinglangQiao/MVVA-Database),
+and run the demo inference code
+```
+python main.py
+```
 
+## Citation
+If you find this repository helpful, you may cite:
+```
+@article{liu2020visualaudio,
+  title={Learning to Predict Salient Faces: A Novel Audio-Visual Saliency Model},
+  author={Yufan Liu; Minglang Qiao; Mai Xu; Bing Li; Weiming Hu; Ali Borji},
+  booktitle=={Proceedings of the european conference on computer vision (eccv)},
+  year={2020}
+}
+```
 
-## 
-
+## Reference
+* [remega/OMCNN_2CLSTM](https://github.com/remega/OMCNN_2CLSTM)
+* [automan000/Convolutional_LSTM_PyTorch](https://github.com/automan000/Convolutional_LSTM_PyTorch)
