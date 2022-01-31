@@ -29,7 +29,7 @@ multi-modal attention.
 * pytorch 1.1.0
 * opencv 
 * librosa
-The dependencies can be installed through [requirements.txt]()
+The dependencies can be installed through [requirements.txt](https://github.com/MinglangQiao/visual_audio_saliency/blob/main/requirements.txt)
 
 ## Inference
 Download the pretrained model
