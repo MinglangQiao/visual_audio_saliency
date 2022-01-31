@@ -22,7 +22,7 @@ map. Experimental results show that the proposed method outperforms
 multi-modal attention.
 
 ## Network
-![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg)
+![](https://github.com/MinglangQiao/visual_audio_saliency/blob/main/data/network.png)
 
 ## Requirements
 * pytorch
