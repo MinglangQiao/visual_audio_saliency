@@ -39,6 +39,10 @@ and run the demo inference code
 python main.py
 ```
 
+## TODO
+- [x] Update the Visual branch, Audio branch and Fusion module 
+- [ ] Update the Face branch
+
 ## Citation
 If you find this repository helpful, you may cite:
 ```
